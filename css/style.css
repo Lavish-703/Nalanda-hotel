@@ -174,15 +174,15 @@ header {
 }
 
 .container .card .card-1 {
-  background: url(../img/luxury.jpg) no-repeat center center;
+  background: url(../img/room1.jpeg) no-repeat center center;
   background-size: cover;
 }
 .container .card .card-2 {
-  background: url(../img/couple.jpg) no-repeat center center;
+  background: url(../img/room2.jpeg) no-repeat center center;
   background-size: cover;
 }
 .container .card .card-3 {
-  background: url(../img/standard.jpg) no-repeat center center;
+  background: url(../img/room1.jpeg) no-repeat center center;
   background-size: cover;
 }
 
@@ -281,6 +281,7 @@ header {
 .content-img {
   min-height: 320px;
   height: 100%;
+  width: 100%;
   border-radius: 10px;
 }
 
@@ -358,4 +359,10 @@ header {
 }
 .fa-paper-plane {
   color: #e1bd85;
+}
+
+/* gallery section starts .. */
+.gallery-section {
+  padding-top: 100px;
+  margin-bottom: 30px;
 }
